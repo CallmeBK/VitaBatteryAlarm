@@ -1,0 +1,17 @@
+CelesteBlue
+-For idea to wake from sleep using timer function
+-For information on vita sleep states
+
+Bythos
+-For informing me that Wake-Up-Club uses sceTriggerUtil to trigger the alarm
+
+SparklingPhoenix
+-For pointing out that the vita sdk samples are all installed as apps
+
+SonicMastr
+-For confirming that apps need a main function instead of module_start and module_stop
+
+Graphene
+-For giving me information on the prerequisites for using sceTriggerUtil
+
+Vitaident

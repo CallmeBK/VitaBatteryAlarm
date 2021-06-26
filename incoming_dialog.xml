@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IncomingDialog version="1.5">
+  <Ringtone path="app0:alarm.wav"/> 
+  <BypassPasscode/>
+  <TextContents>
+    <MessageBox string="Vita Charged"/> 
+    <AcceptButton string="OK"/>
+    <PostNotification string="Charged and ready to go."/> 
+  </TextContents>
+</IncomingDialog>
+
